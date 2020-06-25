@@ -1,0 +1,31 @@
+git init
+
+tough filename
+
+git add filename
+
+git add .
+
+git add --all
+
+git commit -m "commit"
+
+git remote add origin remoterepositoryURL
+
+git push origin master
+
+git pull origin master -> to pull from remote repository
+
+ls -> to list all files in local repository
+
+git branch branchname -> to create a branch
+
+git checkout master -> to switch to master
+
+git merge branchname -> to merge branch with master
+
+git branch -d branchname -> to delete branch
+
+git log -> display the log of current local repository
+
+git clone remoterepositoryURL
